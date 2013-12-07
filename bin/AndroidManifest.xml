@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hard.targets.mathsformulas"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/MyTheme" >
+        <activity
+            android:name="com.hard.targets.mathsformulas.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hard.targets.mathsformulas.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="com.hard.targets.mathsformulas.MAINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hard.targets.mathsformulas.View0Activity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.hard.targets.mathsformulas.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hard.targets.mathsformulas.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.hard.targets.mathsformulas.VIEW0ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hard.targets.mathsformulas.View1Activity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.hard.targets.mathsformulas.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hard.targets.mathsformulas.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.hard.targets.mathsformulas.VIEW1ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hard.targets.mathsformulas.View2Activity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.hard.targets.mathsformulas.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hard.targets.mathsformulas.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.hard.targets.mathsformulas.VIEW2ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hard.targets.mathsformulas.View3Activity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.hard.targets.mathsformulas.MainActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hard.targets.mathsformulas.MainActivity" />
+
+            <intent-filter>
+                <action android:name="com.hard.targets.mathsformulas.VIEW3ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hard.targets.mathsformulas.View01Activity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.hard.targets.mathsformulas.View0Activity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hard.targets.mathsformulas.View0Activity" />
+
+            <intent-filter>
+                <action android:name="com.hard.targets.mathsformulas.VIEW01ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hard.targets.mathsformulas.View03Activity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.hard.targets.mathsformulas.View0Activity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hard.targets.mathsformulas.View0Activity" />
+
+            <intent-filter>
+                <action android:name="com.hard.targets.mathsformulas.VIEW03ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hard.targets.mathsformulas.View32Activity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.hard.targets.mathsformulas.View3Activity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hard.targets.mathsformulas.View3Activity" />
+
+            <intent-filter>
+                <action android:name="com.hard.targets.mathsformulas.VIEW32ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+        <activity
+            android:name="com.hard.targets.mathsformulas.DisclaimerActivity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.hard.targets.mathsformulas.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hard.targets.mathsformulas.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.hard.targets.mathsformulas.AboutActivity"
+            android:label="@string/app_name"
+            android:parentActivityName="com.hard.targets.mathsformulas.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.hard.targets.mathsformulas.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maths Formulas</string>
+    <string name="title_section1">Algebra</string>
+    <string name="sub_11">Basic Facts and Properties</string>
+    <string name="sub_12">Basic Concepts</string>
+    <string name="sub_12_1">Properties of Exponents and Radicals</string>
+    <string name="sub_12_2">Polynomials and Factoring</string>
+    <string name="sub_12_3">Complex Numbers</string>
+    <string name="sub_13">Factoring and Solving Formulas</string>
+    <string name="sub_14">Factoring and Solving Methods</string>
+    <string name="sub_14_1">Solving Linear Equations</string>
+    <string name="sub_14_2">Solving Quadratic Equations</string>
+    <string name="sub_14_3">Solving Equations with Square Roots</string>
+    <string name="sub_14_4">Solving Absolute Value Equations</string>
+    <string name="sub_15">Functions and Graphs</string>
+    <string name="sub_16">Common Algebraic Errors</string>
+    <string name="title_section2">Geometry</string>
+    <string name="sub_21">Points and Lines</string>
+    <string name="sub_22">Angles</string>
+    <string name="sub_23">Triangles</string>
+    <string name="sub_24">Quadrilaterals</string>
+    <string name="sub_25">Polygons</string>
+    <string name="sub_26">Circles</string>
+    <string name="sub_27">Coordinate Geometry</string>
+    <string name="sub_28">Measurement Formulas</string>
+    <string name="title_section3">Trigonometry</string>
+    <string name="sub_31">Definitions</string>
+    <string name="sub_32">Facts and Properties</string>
+    <string name="sub_33">Formulas and Identities</string>
+    <string name="sub_34">Unit Circle</string>
+    <string name="sub_35">Inverse Trigonometric Functions</string>
+    <string name="sub_36">Law of Sines, Cosines and Tangents</string>
+    <string name="title_section4">Calculus</string>
+    <string name="sub_41">Limits</string>
+    <string name="sub_42">Derivatives</string>
+    <string name="sub_43">Integrals</string>
+    <string name="sub_43_1">Integral Formulas/Rules</string>
+    <string name="sub_43_2">Standard Integration Techniques</string>
+    <string name="sub_44">Laplace Transforms</string>
+    <string name="action_more">More</string>
+    <string name="action_rate">Rate Us</string>
+    <string name="action_share">Share</string>
+    <string name="action_about">About Us</string>
+    <string name="action_disclaimer">Disclaimer</string>
+    <string name="action_exit">Exit</string>
+    <string name="dialog_title">Alert</string>
+    <string name="dialog_message">Are you sure you want to quit the application?</string>
+    <string name="yes">Quit</string>
+    <string name="no">Return</string>
+    <string name="hello_world"></string>
+    <string name="version">Version: 1.0</string>
+    <string name="developer">Developed By: Team Hard Targets</string>
+
+</resources>

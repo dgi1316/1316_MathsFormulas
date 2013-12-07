@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">गणित के फ़ार्मुले</string>
+    <string name="title_section1">बीजगणित</string>
+    <string name="sub_11">मूल तथ्य और गुण</string>
+    <string name="sub_12">बुनियादी अवधारणाओं</string>
+    <string name="sub_12_1">एक्स्पोनेंट्स और रेडिकल्स के गुण</string>
+    <string name="sub_12_2">बहुपदों और फैक्टरिंग</string>
+    <string name="sub_12_3">जटिल संख्या</string>
+    <string name="sub_13">फैक्टरिंग और सुलझाने सूत्र</string>
+    <string name="sub_14">फैक्टरिंग और तरीके को सुलझाने</string>
+    <string name="sub_14_1">रेखीय समीकरण को हल</string>
+    <string name="sub_14_2">द्विघात समीकरण को हल</string>
+    <string name="sub_14_3">स्क्वायर जड़ें साथ सुलझाने समीकरण</string>
+    <string name="sub_14_4">निरपेक्ष मूल्य समीकरण सुलझाने</string>
+    <string name="sub_15">कार्य और रेखाचित्र</string>
+    <string name="sub_16">आम बीजीय त्रुटियाँ</string>
+    <string name="title_section2">ज्यामिति</string>
+    <string name="sub_21">अंक और लाइनों</string>
+    <string name="sub_22">कोण</string>
+    <string name="sub_23">त्रिकोण</string>
+    <string name="sub_24">चतुष्कोष</string>
+    <string name="sub_25">बहुभुज</string>
+    <string name="sub_26">वृत्त</string>
+    <string name="sub_27">निर्देशांक ज्यामिति</string>
+    <string name="sub_28">मापन सूत्र</string>
+    <string name="title_section3">त्रिकोणमिति</string>
+    <string name="sub_31">परिभाषाएँ</string>
+    <string name="sub_32">तथ्य और गुण</string>
+    <string name="sub_33">सूत्र और पहचान</string>
+    <string name="sub_34">यूनिट सर्किल</string>
+    <string name="sub_35">व्युत्क्रम त्रिकोणमितीय कार्य</string>
+    <string name="sub_36">Sine, Cosine और Tangent के कानून</string>
+    <string name="title_section4">अश्मरी</string>
+    <string name="sub_41">सीमाएं</string>
+    <string name="sub_42">संजात</string>
+    <string name="sub_43">समाकल</string>
+    <string name="sub_43_1">इंटीग्रल सूत्र / नियम</string>
+    <string name="sub_43_2">स्टैंडर्ड एकता तकनीक</string>
+    <string name="sub_44">लाप्लास बदल</string>
+    <string name="action_more">अधिक</string>
+    <string name="action_rate">रेट करें</string>
+    <string name="action_share">शेयर</string>
+    <string name="action_about">हमारे बारे में</string>
+    <string name="action_disclaimer">निबंधन और शर्तें</string>
+    <string name="action_exit">बाहर जाएं</string>
+    <string name="dialog_title">चेतावनी</string>
+    <string name="dialog_message">क्या आप बाहर जाना चाहते हैं?</string>
+    <string name="yes">ठीक</string>
+    <string name="no">रद्द करें</string>
+    <string name="hello_world"></string>
+    <string name="version">संस्करण: 1.0</string>
+    <string name="developer">टीम हार्ड टारगेट: द्वारा विकसित</string>
+
+</resources>
